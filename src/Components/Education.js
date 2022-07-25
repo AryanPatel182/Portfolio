@@ -19,7 +19,7 @@ export const Education = () => {
                     </div>
                     <div className="edu-item-desc">
                         <p>
-                            I am currently in 5th semester of B.Tech With CPI of 8.37 upto 4th semester. Not getting selected for summer internship gives pain sometimes !
+                            I am currently in 5th semester of B.Tech With CPI of 8.34 upto 6th semester. Not getting selected for summer internship gives pain sometimes !
                         </p>
                     </div>
                 </div>
