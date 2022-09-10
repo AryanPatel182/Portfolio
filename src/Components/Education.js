@@ -19,7 +19,7 @@ export const Education = () => {
                     </div>
                     <div className="edu-item-desc">
                         <p>
-                            I am currently in 7th semester of B.Tech With CPI of 8.34 upto 6th semester. Not getting selected for summer internship gives pain sometimes !
+                            I am currently in 7th semester of B.Tech With CPI of 8.34 upto 6th semester. Not getting selected for summer internship gives pain sometimes ! I am selected in Oracle as an Application Engineer.
                         </p>
                     </div>
                 </div>
@@ -34,7 +34,7 @@ export const Education = () => {
                     </div>
                     <div className="edu-item-desc">
                         <p>
-                            I have done my secondary and higher secondary schooling with gujarat state board in gujarati medium. I scored 94.33% in SSC and 93.33% in HSC. The feeling of getting 100 in Maths in HSC was amazing !
+                            I have done my secondary and higher secondary schooling with gujarat state board in gujarati medium. I scored 94.33% in SSC and 93.33% in HSC. The feeling of getting 100 in Maths in HSC was amazing ! 
                         </p>
                     </div>
                 </div>
