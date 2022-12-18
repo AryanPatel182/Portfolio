@@ -1,6 +1,6 @@
 import React from 'react'
 import { ProfileDesc } from './ProfileDesc';
-import  photo from '../Images/me.jpeg';
+import  photo from '../Images/me.jpg';
 
 export const Profile = () => {
     return (

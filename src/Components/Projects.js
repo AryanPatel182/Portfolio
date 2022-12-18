@@ -11,7 +11,7 @@ export const Projects = () => {
                 <div className="project-container">
                     <div className="project-item1">
                         <h1>Projects</h1>
-                        <h3>A small collection of my projects.</h3>
+                        <h3>Collection of my projects.</h3>
                     </div>
                     <div className="project-item">
                         <a href="https://web-cov.herokuapp.com/home" rel="noreferrer" target="_blank" >
