@@ -17,10 +17,10 @@ body {
   margin-bottom: 40px;  
 }
 .frame img {
-  height: 93%;
-  width: 12rem;
+  height: 90%;
+  width: 15rem;
   border-radius: 12px;
-  box-shadow: 17px 3px 10px -4px rgb(0 0 0 / 20%);
+  /* box-shadow: 17px 3px 10px -4px rgb(0 0 0 / 20%); */
 }
 
 .name
