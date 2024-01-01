@@ -9,10 +9,10 @@ export const Introduction = () => {
                     <hr/>
                 </div>
                 <div className="text-center intro-text">
-                    <p> My name is Aryan. I am pursuing my Btech degree in ICT(minor in CS) field at DAIICT Gandhinagar. I was born and brought up in Ahmedabad.</p>
+                    <p>Hello, My name is Aryan. I am currently working as an Application Developer at Oracle Gandhinagar. I have done my Btech degree in ICT(minor in CS) field at DAIICT Gandhinagar. I was born and brought up in Ahmedabad.</p>
 
                     <p>I am very passionate about programming and engineering as a whole. Mathematics is something which is always my favourite.</p>
-                    <p>I have had experience in different languages, frameworks etc. I primarily code in Java but have used other languages such as Python, C, C++, etc. As a backend language I prefer Django to build amazing websites. I'm dedicated to growing as an engineer and as an individual.</p>
+                    <p>I have had experience in different languages, frameworks etc. I primarily code in Java but have used other languages such as Python, C, C++ etc. As a backend language I prefer Django to build amazing websites. I'm dedicated to growing as an engineer and as an individual.</p>
                 </div>
             </div>
         </div>

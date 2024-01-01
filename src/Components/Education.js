@@ -15,11 +15,11 @@ export const Education = () => {
                     <div className="edu-item-lower-title">
                         <h6>Dhirubhai Ambani Institute of Information and Communication Technology</h6>
                         <h6>Gandhinagar</h6>
-                        <h6>2021-Present</h6>
+                        <h6>2019-2023</h6>
                     </div>
                     <div className="edu-item-desc">
                         <p>
-                            I am currently in 7th semester of B.Tech With CPI of 8.34 upto 6th semester. Not getting selected for summer internship gives pain sometimes !
+                            I have completed my B.Tech. (Honours) in ICT with minor in Computational Science with CPI of 8.4 and got an on-campus offer from Oracle.
                         </p>
                     </div>
                 </div>

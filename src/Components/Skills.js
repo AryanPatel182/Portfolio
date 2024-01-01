@@ -38,6 +38,18 @@ export const Skills = () => {
                         <p>Intermediate</p>
                     </div>
                     <div className="skill-item">
+                        <h4>SpringBoot</h4>
+                        <p>Intermediate</p>
+                    </div>
+                    <div className="skill-item">
+                        <h4>OracleDB</h4>
+                        <p>Intermediate</p>
+                    </div>
+                    <div className="skill-item">
+                        <h4>MongoDB</h4>
+                        <p>Intermediate</p>
+                    </div>
+                    <div className="skill-item">
                         <h4>Matlab</h4>
                         <p>Intermediate</p>
                     </div>

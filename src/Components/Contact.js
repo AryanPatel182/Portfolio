@@ -18,7 +18,7 @@ export const Contact = () => {
                         <a href="https://twitter.com/AryanPa09191003?s=09" target="_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a>
                     </div>                                                          
                     <div className="contact-item">
-                        <a href="https://www.instagram.com/aryan_patel182/" target="_blank" rel="noreferrer"><i className="fab fa-instagram" ></i></a>
+                        <a href="https://www.instagram.com/aryann_182/" target="_blank" rel="noreferrer"><i className="fab fa-instagram" ></i></a>
                     </div>                    
                     <div className="contact-item">
                         <a href="https://www.youtube.com/channel/UCVOXD948RoxYpcHPBddXw3A" rel="noreferrer" target="_blank"><i className="fab fa-youtube"></i></a>
